@@ -11,3 +11,9 @@ II. Create a new repository
 3) Choose the privacy feature you'd like. In case of files you would like others to have access to, choose 'public'.
 4) It is good practice to start a repository with at least one file; select the 'Add a README file'. You can update it later.
 5) Click 'Create repository'.
+
+III. Adding files to the repository
+1) To add an existing file, click on 'Add file' and select 'Upload files'.
+2) Either drag or choose your file. Again, it's good practice to add a description here. 
+3) Select the 'Commit directly to the main branch' option to simply upload the file to the repository. If you select the other option of 'Create a new branch for this commit and start a pull request', then the file and all future changes will be documented (changes are called 'pushes'). If working with collaborators, this can be a good option to do version control before changes are saved/merged in the main branch.
+4) Click on 'Commit changes'.
