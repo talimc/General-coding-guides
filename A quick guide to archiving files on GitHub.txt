@@ -1,0 +1,13 @@
+A quick guide to archiving files on GitHub
+
+I. Open your new account
+1) Open www.github.com
+2) Click "sign up for GitHub" and follow the steps to complete your account. 
+That was simple! :)
+
+II. Create a new repository
+1) On the left column ("Repositories"), click on "New".
+2) Enter the repository name you want. It's good practice to add a description, both so that others know as much about the repository as possible, and also for your future forgetfull self.
+3) Choose the privacy feature you'd like. In case of files you would like others to have access to, choose 'public'.
+4) It is good practice to start a repository with at least one file; select the 'Add a README file'. You can update it later.
+5) Click 'Create repository'.
